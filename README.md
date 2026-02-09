@@ -1,6 +1,7 @@
 # Student Mental Health SQL Analysis 📊
+---
 
-📌 Conclusions & Key Insights
+## 📌 Conclusions & Key Insights
 
 This project used SQL to explore patterns in student mental health data, focusing on stress, academic workload, and lifestyle factors.
 
@@ -36,7 +37,7 @@ Key findings from the analysis include:
 
 Overall, the analysis demonstrates that academic pressure, sleep issues, and environmental factors are strongly associated with increased stress and anxiety among students. The findings emphasize the importance of academic balance and healthy sleep habits in supporting student mental health. The use of SQL aggregation, grouping, and subqueries enabled the identification of both population-level trends and higher-risk student groups. 
 
-
+---
 
 
 
@@ -72,4 +73,4 @@ Download: https://data.mendeley.com/datasets/2gsjv8m7ch/2
 ---
 
 📣 Conclusion
-This project showcases SQL as a powerful analytical tool for real-world data exploration. Insights drawn here may inform mental health support strategies or future research.
+This project showcases SQL as an analytical tool for real-world data exploration. Insights drawn here may inform mental health support strategies or future research.
