@@ -1,5 +1,6 @@
 # Student Mental Health SQL Analysis 📊
----
+
+
 
 ## 📌 Conclusions & Key Insights
 
@@ -51,6 +52,8 @@ Download: https://data.mendeley.com/datasets/2gsjv8m7ch/2
 
 ---
 
+
+
 ## 🛠 Tools & Setup
 
 - **Database**: SQLite (`.db` file)
@@ -60,6 +63,8 @@ Download: https://data.mendeley.com/datasets/2gsjv8m7ch/2
 
 
 ---
+
+
 
 ## 💻 How to Use
 
@@ -71,6 +76,8 @@ Download: https://data.mendeley.com/datasets/2gsjv8m7ch/2
 
 
 ---
+
+
 
 📣 Conclusion
 This project showcases SQL as an analytical tool for real-world data exploration. Insights drawn here may inform mental health support strategies or future research.
