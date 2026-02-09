@@ -38,7 +38,7 @@ Overall, the analysis demonstrates that academic pressure, sleep issues, and env
 
 
 
-# Student Mental Health SQL Analysis 📊
+
 
 ## 📌 Project Overview
 
